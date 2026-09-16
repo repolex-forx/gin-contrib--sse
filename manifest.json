@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "gin-contrib",
+  "repo": "sse",
+  "versions": [
+    {
+      "commit": "41aa9c0d6d639b46ce650e49009820fd864f9df5",
+      "parsed_at": "2026-09-16T03:44:22.575826+00:00",
+      "tag": "v1.1.1",
+      "filetree": "filetree/41aa9c0d6d639b46ce650e49009820fd864f9df5.nq.gz",
+      "blobs": [
+        "blob/724d9d07dd9f9d44f768f3d99cd098985a5ae0db.nq.gz",
+        "blob/d34f5d807461d99e55629d011868fa878e78d9f1.nq.gz",
+        "blob/c4c1710c475c1aaf6b41e75cf7003b167ddb3739.nq.gz",
+        "blob/4c910add43b906a9ed15bc34e19f62cf73ce2f67.nq.gz",
+        "blob/1a82f3f561873da3e5158ba107b86195dbef4ba8.nq.gz",
+        "blob/da2c2d4b642edad250dcd4d9516aee56d4b8c004.nq.gz",
+        "blob/47094ac61f1d9bb7ec2549c29b916015ae7f2c4b.nq.gz",
+        "blob/1ff7f370605592e4c09bd16f6775c075631bd9e6.nq.gz",
+        "blob/068107b64c30b936253d935e9830ccff46f7ba8f.nq.gz",
+        "blob/6df102df03e794e3dd7a04848517debf522d1692.nq.gz",
+        "blob/d5be52395ced960e1e6c0524a311fef5a7fd85b0.nq.gz",
+        "blob/1f44caf582e0c744b9c19653822ea279028ba91e.nq.gz",
+        "blob/632e8eb25cb1d8b150df7205f82cc6c8df23982d.nq.gz",
+        "blob/503d775a8e3c26a94a9a4b6a57f85e9537b8bbd1.nq.gz",
+        "blob/9ebb49f41808abbcc01535a1916d066fd0bb1eee.nq.gz",
+        "blob/a63ac203746929cac829a8f9492efad78973a7bf.nq.gz",
+        "blob/baf143b8b4cf6e76f4d44310d0b76f94d172beb1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
